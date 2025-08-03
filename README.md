@@ -1,94 +1,79 @@
-## Hi there 👋
-
-<!--
-**Akajiaku11* is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">👋 Hi, I'm Dr. Eteh, Desmond Rowland!</h1>
+<h3 align="center">🌟 A Passionate Data Scientist & Geospatial Analyst 🌍</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Akajiaku1/Akajiaku1/main/banner.png" alt="Ugochukwu Charles Akajiaku Banner" width="100%" />
-</p>
-
-# 👋 Hi, I'm Ugochukwu Charles Akajiaku  
-### 🚀 Data Scientist | 🛠️ Data Engineer | 🌍 Climate Tech Expert @ Golden Viosam Nig. Ltd
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-- 💡 Passionate about **AI/ML for Climate Action**, **Big Data Engineering**, and **Geo-Spatial Intelligence**  
-- 🏢 Working at **Golden Viosam Nig. Ltd** on transformative data solutions for sustainability  
-- 📈 Building scalable ML pipelines and climate analytics platforms  
-- 🛰️ Skilled in **Python, SQL, Spark, GEE, TensorFlow, QGIS**, and **Cloud Technologies**  
-- 📫 Email me: **akajiakuflowz@gmail.com** | 🔗 [LinkedIn](https://www.linkedin.com/in/akajiaku/)
-
----
-
-## 🧰 Tech Toolbox
-
-```text
-Languages:       Python, SQL, JavaScript, Bash  
-Data Science:    Pandas, Scikit-learn, TensorFlow, PyTorch, R  
-Data Engineering:Apache Spark, Airflow, BigQuery, PostgreSQL  
-Geospatial:      Google Earth Engine, QGIS, ArcGIS  
-Cloud & Tools:   Docker, GitHub Actions, GCP, Azure, Colab, VS Code
-```
-
----
-
-## 📈 GitHub Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akajiaku1&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akajiaku1&theme=tokyonight" width="48%" />
-  <br>
+  <img src="https://komarev.com/ghpvc/?username=eteh1&label=Profile%20views&color=blueviolet&style=flat" alt="eteh1" />
 </p>
 
 ---
 
-## 🌍 Featured Projects
+### 🚀 About Me  
 
-- 🌱 **GHG Emissions Monitoring** – AI models for tracking emissions across Nigeria
-- 💧 **Oil Spill Detection via Satellite** – NDVI/SAVI-based spatial analysis for Niger Delta
-- 🔆 **Renewable Energy GIS System** – Site selection using ML + geospatial data
-- 📊 **Climate Policy Recommender** – NLP-powered dashboard for African governments
+- 🔭 **Currently working on**: [Leveraging Data and Visualization](https://github.com/eteh1/Leveraging-Data-and-Visualization-to-Understand-the-2024-Brazil-Floods)  
+- 🌱 **Learning**: Deep learning with ArcGIS, TensorFlow, and geospatial data (Earth Engine)  
+- 👯 **Collaborating on**: [Flood Mapping in Niger Delta Nigeria](https://github.com/eteh1/Flood-Mapping-and-Monitoring-in-Niger-Delta-Nigeria-)  
+- 🤝 **Seeking help with**: [Air Quality Prediction Model](https://github.com/eteh1/Air-Quality-Prediction-Model)  
+- 💬 **Ask me about**:  
+  ![Pandas](https://img.shields.io/badge/Pandas-%231572B6.svg?style=for-the-badge&logo=pandas&logoColor=white)
+  ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23DA291C.svg?style=for-the-badge&logoColor=white)
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+  ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)  
 
----
-
-## 📰 Media & Thought Leadership
-
-- 🗞️ *The Guardian Nigeria* – AI for Greenhouse Gas Reduction
-- 🌐 *TechCabal* – AI, geospatial tech way forward to tackling climate change in Africa
-- 🏛️ *NDU Geology Training* – 286+ participants trained on Python, ML, GIS & Deep Learning
-
----
-
-## 📫 Connect With Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-Akajiaku1-black?logo=github&style=flat-square)](https://github.com/Akajiaku1)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akajiaku/)
-[![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:akajiakuflowz@gmail.com )
+- 📝 **Articles**: [LinkedIn Articles](https://www.linkedin.com/in/desmond-eteh)  
+- 📫 **Contact**: [desmondeteh@gmail.com](mailto:desmondeteh@gmail.com)  
+- ⚡ **Fun Fact**: A geospatial analyst is like a digital explorer—mapping Earth’s secrets by night! 🌌  
 
 ---
 
-## 🏆 GitHub Badges & Contribution 
+### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Akajiaku1&theme=onedark&no-frame=true&row=1&column=7" />
-  <br><br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=Akajiaku1&theme=chartreuse-dark" width="0%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=eteh1&show_icons=true&hide_border=true&theme=radical" alt="eteh1 GitHub Stats" />
+</p>  
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eteh1&theme=radical&hide_border=true" alt="eteh1 Streak Stats" />
+</p>  
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eteh1&theme=radical&layout=compact&hide_border=true" alt="eteh1 Top Languages" />
+</p>  
+
+---
+
+### 💻 Tech Stack  
+
+#### Core Tools  
+<p align="center">
+  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>  
+  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>  
+  <a href="https://dotnet.microsoft.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="DotNet" width="40" height="40"/></a>  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>  
+  <a href="https://www.chartjs.org"><img src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.js" width="40" height="40"/></a>  
 </p>
 
 ---
 
-## ✨ Quote to Live By
+### 🌍 GIS Tools
 
-> *"Big data, when paired with climate insight, has the power to change the future of nations."*
+<p align="center"> <a href="https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview" target="_blank"> <img src="https://img.shields.io/badge/ArcGIS-%23f47920.svg?style=for-the-badge&logo=arcgis&logoColor=white" alt="ArcGIS Badge"/> </a> <a href="https://earthengine.google.com/" target="_blank"> <img src="https://img.shields.io/badge/Google%20Earth%20Engine-%234285F4.svg?style=for-the-badge&logo=googleearth&logoColor=white" alt="Google Earth Engine Badge"/> </a> <a href="https://qgis.org/" target="_blank"> <img src="https://img.shields.io/badge/QGIS-%23A6CE39.svg?style=for-the-badge&logo=qgis&logoColor=white" alt="QGIS Badge"/> </a> <a href="https://saga-gis.sourceforge.io/en/index.html" target="_blank"> <img src="https://img.shields.io/badge/SAGA%20GIS-%23005588.svg?style=for-the-badge&logo=geography&logoColor=white" alt="SAGA GIS Badge"/> </a> <a href="https://grass.osgeo.org/" target="_blank"> <img src="https://img.shields.io/badge/GRASS%20GIS-%2364A33E.svg?style=for-the-badge&logo=grass&logoColor=white" alt="GRASS GIS Badge"/> </a> <a href="https://postgis.net/" target="_blank"> <img src="https://img.shields.io/badge/PostGIS-%234F5155.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostGIS Badge"/> </a> 
+</p>
+
+---
+
+### 🌐 Connect with Me  
+
+<p align="center">
+  <a href="https://linkedin.com/in/desmond-eteh" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>  
+  <a href="https://www.youtube.com/@Etehinnovative" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>  
+</p>  
+
+---
+
+### ⚡ Fun Extras  
+
+- 🎨 Passionate about data visualization and storytelling  
+- 🌍 Exploring geospatial trends with cutting-edge AI tools  
+- 🧑‍🔬 Bringing the real world into models one dataset at a time!  
+
+---
+
