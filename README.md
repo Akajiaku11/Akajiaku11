@@ -11,7 +11,7 @@
 
 - 🔭 **Currently working on**: [Leveraging Data and Visualization](https://github.com/Akajiaku11/Leveraging-Data-and-Visualization-to-Understand-the-2024-Brazil-Floods)  
 - 🌱 **Learning**: Deep learning with ArcGIS, TensorFlow, and geospatial data (Earth Engine)  
-- 👯 **Collaborating on**: [Flood Mapping in Niger Delta Nigeria](https://github.com/Akajiaku11/Flood-Mapping-and-Monitoring-in-Niger-Delta-Nigeria-)  
+- 👯 **Collaborating on**: [Flood Mapping in Niger Delta, Nigeria](https://github.com/Akajiaku11/Flood-Mapping-and-Monitoring-in-Niger-Delta-Nigeria-)  
 - 🤝 **Seeking help with**: [Air Quality Prediction Model](https://github.com/Akajiaku11/Air-Quality-Prediction-Model)  
 - 💬 **Ask me about**:  
   ![Pandas](https://img.shields.io/badge/Pandas-%231572B6.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -72,7 +72,7 @@
 ### ⚡ Fun Extras  
 
 - 🎨 Passionate about data visualization and storytelling  
-- 🌍 Exploring geospatial trends with cutting-edge ML/AI tools  
+- 🌍 Exploring geospatial trends with cutting-edge AI tools  
 - 🧑‍🔬 Bringing the real world into models one dataset at a time!  
 
 ---
