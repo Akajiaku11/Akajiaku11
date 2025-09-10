@@ -73,7 +73,7 @@
 
 - 🎨 Passionate about data visualization and storytelling  
 - 🌍 Exploring geospatial trends with cutting-edge AI tools  
-- 🧑‍🔬 Bringing the real world into models one dataset at a time!  
+- 🧑‍🔬 Bringing the real world into models one dataset at a time !  
 
 ---
 
