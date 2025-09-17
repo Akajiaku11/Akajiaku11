@@ -2,78 +2,106 @@
 <h3 align="center">🌟 A Passionate Data Scientist & Geospatial Analyst 🌍</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=eteh1&label=Profile%20views&color=blueviolet&style=flat" alt="Akajiaku11" />
+  <img src="https://komarev.com/ghpvc/?username=Akajiaku11&label=Profile%20views&color=blueviolet&style=flat" alt="Akajiaku11 profile views" />
 </p>
 
 ---
 
-### 🚀 About Me  
+### 🚀 About Me
 
 - 🔭 **Currently working on**: [Leveraging Data and Visualization](https://github.com/Akajiaku11/Leveraging-Data-and-Visualization-to-Understand-the-2024-Brazil-Floods)  
 - 🌱 **Learning**: Deep learning with ArcGIS, TensorFlow, and geospatial data (Earth Engine)  
 - 👯 **Collaborating on**: [Flood Mapping in Niger Delta, Nigeria](https://github.com/Akajiaku11/Flood-Mapping-and-Monitoring-in-Niger-Delta-Nigeria-)  
 - 🤝 **Seeking help with**: [Air Quality Prediction Model](https://github.com/Akajiaku11/Air-Quality-Prediction-Model)  
 - 💬 **Ask me about**:  
-  ![Pandas](https://img.shields.io/badge/Pandas-%231572B6.svg?style=for-the-badge&logo=pandas&logoColor=white)
+  ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
   ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23DA291C.svg?style=for-the-badge&logoColor=white)
+  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23239120.svg?style=for-the-badge&logo=Matplotlib&logoColor=white)
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
-  ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)  
+  ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 
 - 📝 **Articles**: [LinkedIn Articles](https://www.linkedin.com/in/akajiaku)  
-- 📫 **Contact**: [akajiakuflowz@gmail.com](akajiakuflowz@gmail.com)  
-- ⚡ **Fun Fact**: A geospatial analyst is like a digital explorer—mapping Earth’s secrets by night! 🌌  
+- 📫 **Contact**: [akajiakuflowz@gmail.com](mailto:akajiakuflowz@gmail.com)  
+- ⚡ **Fun Fact**: A geospatial analyst is like a digital explorer—mapping Earth’s secrets by night! 🌌
 
 ---
 
-### 📊 GitHub Stats  
+### 📊 GitHub Stats (auto dark/light — self-hosted, no rate limits)
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Akajiaku11&show_icons=true&hide_border=true&theme=radical" alt="Akajiaku11 GitHub Stats" />
-</p>  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akajiaku11/Akajiaku11/main/profile-summary-card-output/radical/0-profile-details.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akajiaku11/Akajiaku11/main/profile-summary-card-output/github/0-profile-details.svg">
+    <img alt="Profile details" src="https://raw.githubusercontent.com/Akajiaku11/Akajiaku11/main/profile-summary-card-output/radical/0-profile-details.svg">
+  </picture>
+</p>
+
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Akajiaku11&theme=radical&hide_border=true" alt="Akajiaku11 Streak Stats" />
-</p>  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akajiaku11/Akajiaku11/main/profile-summary-card-output/radical/3-stats.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akajiaku11/Akajiaku11/main/profile-summary-card-output/github/3-stats.svg">
+    <img alt="Stats" src="https://raw.githubusercontent.com/Akajiaku11/Akajiaku11/main/profile-summary-card-output/radical/3-stats.svg">
+  </picture>
+</p>
+
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akajiaku11&theme=radical&layout=compact&hide_border=true" alt="Akajiaku11 Top Languages" />
-</p>  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akajiaku11/Akajiaku11/main/profile-summary-card-output/radical/1-repos-per-language.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akajiaku11/Akajiaku11/main/profile-summary-card-output/github/1-repos-per-language.svg">
+    <img alt="Repos per language" src="https://raw.githubusercontent.com/Akajiaku11/Akajiaku11/main/profile-summary-card-output/radical/1-repos-per-language.svg">
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akajiaku11/Akajiaku11/main/profile-summary-card-output/radical/2-most-commit-language.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akajiaku11/Akajiaku11/main/profile-summary-card-output/github/2-most-commit-language.svg">
+    <img alt="Most commit language" src="https://raw.githubusercontent.com/Akajiaku11/Akajiaku11/main/profile-summary-card-output/radical/2-most-commit-language.svg">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akajiaku11/Akajiaku11/main/profile-summary-card-output/radical/4-productive-time.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akajiaku11/Akajiaku11/main/profile-summary-card-output/github/4-productive-time.svg">
+    <img alt="Commit productive time" src="https://raw.githubusercontent.com/Akajiaku11/Akajiaku11/main/profile-summary-card-output/radical/4-productive-time.svg">
+  </picture>
+</p>
 
 ---
 
-### 💻 Tech Stack  
+### 💻 Tech Stack
 
-#### Core Tools  
+#### Core Tools
 <p align="center">
-  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>  
-  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>  
-  <a href="https://dotnet.microsoft.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="DotNet" width="40" height="40"/></a>  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>  
-  <a href="https://www.chartjs.org"><img src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.js" width="40" height="40"/></a>  
+  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
+  <a href="https://dotnet.microsoft.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
+  <a href="https://www.chartjs.org"><img src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.js" width="40" height="40"/></a>
 </p>
 
 ---
 
 ### 🌍 GIS Tools
-
-<p align="center"> <a href="https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview" target="_blank"> <img src="https://img.shields.io/badge/ArcGIS-%23f47920.svg?style=for-the-badge&logo=arcgis&logoColor=white" alt="ArcGIS Badge"/> </a> <a href="https://earthengine.google.com/" target="_blank"> <img src="https://img.shields.io/badge/Google%20Earth%20Engine-%234285F4.svg?style=for-the-badge&logo=googleearth&logoColor=white" alt="Google Earth Engine Badge"/> </a> <a href="https://qgis.org/" target="_blank"> <img src="https://img.shields.io/badge/QGIS-%23A6CE39.svg?style=for-the-badge&logo=qgis&logoColor=white" alt="QGIS Badge"/> </a> <a href="https://saga-gis.sourceforge.io/en/index.html" target="_blank"> <img src="https://img.shields.io/badge/SAGA%20GIS-%23005588.svg?style=for-the-badge&logo=geography&logoColor=white" alt="SAGA GIS Badge"/> </a> <a href="https://grass.osgeo.org/" target="_blank"> <img src="https://img.shields.io/badge/GRASS%20GIS-%2364A33E.svg?style=for-the-badge&logo=grass&logoColor=white" alt="GRASS GIS Badge"/> </a> <a href="https://postgis.net/" target="_blank"> <img src="https://img.shields.io/badge/PostGIS-%234F5155.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostGIS Badge"/> </a> 
+<p align="center">
+  <a href="https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview" target="_blank"><img src="https://img.shields.io/badge/ArcGIS-%23f47920.svg?style=for-the-badge&logo=arcgis&logoColor=white" alt="ArcGIS Badge"/></a>
+  <a href="https://earthengine.google.com/" target="_blank"><img src="https://img.shields.io/badge/Google%20Earth%20Engine-%234285F4.svg?style=for-the-badge&logo=googleearth&logoColor=white" alt="Google Earth Engine Badge"/></a>
+  <a href="https://qgis.org/" target="_blank"><img src="https://img.shields.io/badge/QGIS-%23A6CE39.svg?style=for-the-badge&logo=qgis&logoColor=white" alt="QGIS Badge"/></a>
+  <a href="https://saga-gis.sourceforge.io/en/index.html" target="_blank"><img src="https://img.shields.io/badge/SAGA%20GIS-%23005588.svg?style=for-the-badge&logo=geography&logoColor=white" alt="SAGA GIS Badge"/></a>
+  <a href="https://grass.osgeo.org/" target="_blank"><img src="https://img.shields.io/badge/GRASS%20GIS-%2364A33E.svg?style=for-the-badge&logo=grass&logoColor=white" alt="GRASS GIS Badge"/></a>
+  <a href="https://postgis.net/" target="_blank"><img src="https://img.shields.io/badge/PostGIS-%234F5155.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostGIS Badge"/></a>
 </p>
 
 ---
 
-### 🌐 Connect with Me  
-
+### 🌐 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/akajiaku" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>  
-  <a href="https://www.youtube.com/@akajiaku" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>  
-</p>  
+  <a href="https://linkedin.com/in/akajiaku" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.youtube.com/@akajiaku" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+</p>
 
 ---
 
-### ⚡ Fun Extras  
-
+### ⚡ Fun Extras
 - 🎨 Passionate about data visualization and storytelling  
 - 🌍 Exploring geospatial trends with cutting-edge AI tools  
-- 🧑‍🔬 Bringing the real world into models one dataset at a time !  
-
----
-
+- 🧑‍🔬 Bringing the real world into models one dataset at a time!
