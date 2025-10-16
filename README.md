@@ -41,11 +41,7 @@
     <img alt="Stats summary" src="https://raw.githubusercontent.com/Akajiaku11/Akajiaku11/main/profile-summary-card-output/radical/3-stats.svg">
   </picture>
 </p>
-## 📊 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akajiaku11&theme=react-dark&bg_color=0d1117&hide_border=true" width="100%"/>
-</p>
+<p align="center"> <b>📆 2024</b><br/> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akajiaku11&from=2024-01-01&to=2024-12-31&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&custom_title=Contribution%20Graph%20(2024)" width="100%"/> </p> <p align="center"> <b>📆 2025 (to date)</b><br/> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akajiaku11&from=2025-01-01&to=2025-10-16&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&custom_title=Contribution%20Graph%20(2025)" width="100%"/> </p>
 
 <p align="center">
   <picture>
