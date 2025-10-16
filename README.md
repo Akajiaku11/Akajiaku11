@@ -32,13 +32,7 @@
 
 ### 📊 GitHub Stats (auto dark/light)
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akajiaku11/Akajiaku11/main/profile-summary-card-output/radical/0-profile-details.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akajiaku11/Akajiaku11/main/profile-summary-card-output/github/0-profile-details.svg">
-    <img alt="Profile details" src="https://raw.githubusercontent.com/Akajiaku11/Akajiaku11/main/profile-summary-card-output/radical/0-profile-details.svg">
-  </picture>
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Akajiaku11&show_icons=true&theme=tokyonight" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akajiaku11&theme=tokyonight" width="20%" /> </p>
 
 <p align="center">
   <picture>
