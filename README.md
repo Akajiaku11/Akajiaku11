@@ -41,6 +41,11 @@
     <img alt="Stats summary" src="https://raw.githubusercontent.com/Akajiaku11/Akajiaku11/main/profile-summary-card-output/radical/3-stats.svg">
   </picture>
 </p>
+## 📊 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akajiaku11&theme=react-dark&bg_color=0d1117&hide_border=true" width="100%"/>
+</p>
 
 <p align="center">
   <picture>
