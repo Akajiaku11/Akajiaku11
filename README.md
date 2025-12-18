@@ -32,7 +32,7 @@
 
 ### 📊 GitHub Stats (auto dark/light)
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Akajiaku11&show_icons=true&theme=tokyonight" width="20%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akajiaku11&theme=tokyonight" width="20%" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Akajiaku11&show_icons=true&theme=tokyonight" width="42%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akajiaku11&theme=tokyonight" width="20%" /> </p>
 
 <p align="center">
   <picture>
